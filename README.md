@@ -14,3 +14,7 @@ Reids Patreon
 https://www.patreon.com/reidschannel
 
 Developed with Unreal Engine 5
+
+If this project saved you a headache feel free to make a contribution.
+Contributions encourage people like us to give back to the community.
+Thank you.
