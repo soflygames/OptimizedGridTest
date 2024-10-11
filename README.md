@@ -17,6 +17,6 @@ Developed with Unreal Engine 5
 
 If this project saved you a headache feel free to make a contribution.
 Contributions encourage people like us to give back to the community.
-Thank you.
 
-[Th](https://www.paypal.com/donate/?hosted_button_id=FS53GBZ9ZKYTA)
+The Link to my Paypal Thank you.
+[PayPal Donate](https://www.paypal.com/donate/?hosted_button_id=FS53GBZ9ZKYTA)
